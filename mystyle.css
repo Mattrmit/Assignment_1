@@ -1,0 +1,30 @@
+<style>
+body{background:#222;
+color:#AEAEAE;
+}
+
+.main{width:75%;
+    min-width:900px;
+    margin:50px auto;
+}
+
+.main > .section{
+
+    margin:50px 50px;
+    background:#333;
+    padding:25px 50px;
+    border-radius:5px;
+    border:1px solid #111;
+}
+
+.main > .section > h1 {
+    text-align:center; 
+    font-weight:bold;
+    font-size:32px;
+    color:#FFF;
+    }
+
+.main > .section > p {
+    font-size:16px;
+    }
+</style>
